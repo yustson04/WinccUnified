@@ -1,0 +1,22 @@
+Git Bash 에서 설정
+
+1. git --version
+2. git config --global user.name "Joongseok Lee"
+3. git config --global user.email "yustson@gmail.com"
+4. git config --global init.defaultBranch main
+5. git remote add main  https://github.com/yustson04/WinccUnified.git
+6. git config --global --edit
+7. git commit --amend --reset-author
+8. git config --list
+
+VSCode Terminal
+
+1. create branch 
+
+
+Terminal 에서 편집할때
+First, you need to switch to command mode. This can be done by hitting the Esc key. Next, you can type the following commands:
+:q      -to quit.
+:q!     -to quit without saving data/file.
+:x      -save and quit.
+:qa     -to quit all open files
