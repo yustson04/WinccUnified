@@ -20,3 +20,9 @@ First, you need to switch to command mode. This can be done by hitting the Esc k
 :q!     -to quit without saving data/file.
 :x      -save and quit.
 :qa     -to quit all open files
+
+
+
+2.  Create Commit Name then commit
+        After make a new branch 
+        publish
