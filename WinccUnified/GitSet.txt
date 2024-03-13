@@ -26,3 +26,11 @@ First, you need to switch to command mode. This can be done by hitting the Esc k
 2.  Create Commit Name then commit
         After make a new branch 
         publish
+
+3.  C# Programing
+        1. install .Net SDK
+        2. command prompot: .Net Create new project
+        3. select console application
+        4. Define a console project name
+        5. Terminal: Donet run
+        
