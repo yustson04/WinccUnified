@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fww5bNfqoYLMs8H8C+Vnt4n+/D2l77k9oV0xAjY3nA8JbhtTv+HPFJqQcuco7pbrif+xJBQ6cMum+9LQFKx0Zw==",
+  "dgSpecHash": "UnSJhQJwgZx4Tnsv+OqU4tjLa0U5wA1C0tBBhnAfeEumO22QAhomcel2J6fYrcXyGld5OA72XRcoVaAsFkwHZw==",
   "success": true,
   "projectFilePath": "c:\\Users\\kisystem\\Documents\\VSCode\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kisystem\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\kisystem\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
